@@ -1,8 +1,0 @@
-proband_id,chrom_1,pos_1,ref_1,alt_1,chrom_2,pos_2,ref_2,alt_2,epcr,finding_type,notes
-PROBAND01,chr15,40209701,T,G,chr15,40220612,T,G,0.95,primary,"BUB1B compound-het: p.Leu737Ter (nonsense truncation, ClinVar P/LP) + p.Asn1002Lys (pathogenic kinase destabilization confirmed via Arcadia Nexus structural bioenergetic and conformational analysis)"
-PROBAND01,chr7,142750561,C,T,,,,,0.40,secondary,"PRSS1 incidental variant; clinical monitoring advised for hereditary pancreatitis risk"
-PROBAND01,chr1,145927447,C,T,,,,,0.35,secondary,"RBM8A incidental hit; non-TAR syndrome context"
-PROBAND01,chr1,152307547,G,A,,,,,0.30,secondary,"FLG dermatological modifier allele; non-causal for primary MVA"
-PROBAND01,chr10,69315762,A,G,,,,,0.30,secondary,"HK1 ClinVar P/LP screen hit; secondary incidental finding"
-PROBAND01,chr22,20996720,C,G,,,,,0.30,secondary,"LZTR1 screen hit; unrelated to primary MVA phenotype"
-PROBAND01,chr4,67753920,C,T,,,,,0.25,secondary,"GNRHR single heterozygous allele; secondary finding"
